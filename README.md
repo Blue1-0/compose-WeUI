@@ -1,6 +1,6 @@
 WeUI App
 
-# copy form https://github.com/chengdongqing/WeUI
+# copy from https://github.com/chengdongqing/WeUI
 # 上面是原项目作者，尊重作者
 # 复制这个项目主要是最近也在使用compose开发项目，借鉴优点
 ==================
